@@ -1,2 +1,5 @@
 # HFG
-Hierarchical Flow Graph
+Hierarchical Flow Graph (HFG) is a representation for programs which ML models use to solve downstream tasks
+
+> [!NOTE]
+> Paper is currently under review code will be added upon publication.
